@@ -1,6 +1,6 @@
 # Animals-Information-Views
 # Using Recycler and view Holder
-# Demo Video
+# Demo Video:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/vVgwJe8dxWA/0.jpg)](https://www.youtube.com/watch?v=vVgwJe8dxWA)
 
